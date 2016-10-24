@@ -11,6 +11,7 @@ namespace SnakeBoozt
     {
         static void Main(string[] args)
         {
+            //Awesome!!
             Gamehandler game = new Gamehandler();
 
             while(true)
